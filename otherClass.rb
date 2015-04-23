@@ -1,0 +1,2 @@
+newHash = []
+puts newHash
