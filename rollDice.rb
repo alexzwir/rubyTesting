@@ -12,3 +12,5 @@ dices = [Dice.new, Dice.new, Dice.new, Dice.new,Dice.new, Dice.new]
 dices.each do |diceRolling|
 	puts diceRolling.roll
 end
+
+
